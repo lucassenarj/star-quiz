@@ -51,9 +51,6 @@ class RankingPage extends Component {
                       <Avatar>
                         {score.score}
                       </Avatar>
-                      Luke Skywalker
-                      C-3PO
-                      R2-D2
                       <ListItemText primary={score.name} secondary={score.email} />
                     </ListItem>
                   )).sort((a, b) => {
