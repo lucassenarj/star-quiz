@@ -1,13 +1,13 @@
 {
-  "main.js": "/star-quiz/static/js/main.3fe90850.chunk.js",
-  "main.js.map": "/star-quiz/static/js/main.3fe90850.chunk.js.map",
+  "main.js": "/star-quiz/static/js/main.7de98dd4.chunk.js",
+  "main.js.map": "/star-quiz/static/js/main.7de98dd4.chunk.js.map",
   "static/css/1.8623d0e6.chunk.css": "/star-quiz/static/css/1.8623d0e6.chunk.css",
-  "static/js/1.3664d4c6.chunk.js": "/star-quiz/static/js/1.3664d4c6.chunk.js",
-  "static/js/1.3664d4c6.chunk.js.map": "/star-quiz/static/js/1.3664d4c6.chunk.js.map",
+  "static/js/1.1685899e.chunk.js": "/star-quiz/static/js/1.1685899e.chunk.js",
+  "static/js/1.1685899e.chunk.js.map": "/star-quiz/static/js/1.1685899e.chunk.js.map",
   "runtime~main.js": "/star-quiz/static/js/runtime~main.987f85e5.js",
   "runtime~main.js.map": "/star-quiz/static/js/runtime~main.987f85e5.js.map",
   "static/css/1.8623d0e6.chunk.css.map": "/star-quiz/static/css/1.8623d0e6.chunk.css.map",
   "index.html": "/star-quiz/index.html",
-  "precache-manifest.68459f8fe2f21ba91e187a4afa7ebd62.js": "/star-quiz/precache-manifest.68459f8fe2f21ba91e187a4afa7ebd62.js",
+  "precache-manifest.0668aa9af6fc5eb92f9154561b0fbca0.js": "/star-quiz/precache-manifest.0668aa9af6fc5eb92f9154561b0fbca0.js",
   "service-worker.js": "/star-quiz/service-worker.js"
 }
