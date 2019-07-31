@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/star-quiz/static/js/runtime~main.987f85e5.js"
   },
   {
-    "revision": "7de98dd4f8eee20bb93a",
-    "url": "/star-quiz/static/js/main.7de98dd4.chunk.js"
+    "revision": "8cc9ebdb4d334838c1c6",
+    "url": "/star-quiz/static/js/main.8cc9ebdb.chunk.js"
   },
   {
     "revision": "1685899ec064bea9132b",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/star-quiz/static/css/1.8623d0e6.chunk.css"
   },
   {
-    "revision": "581ca4bdecd6ef08c8d7fe11de351ffc",
+    "revision": "ea830adba2cfd6194c6d17f319625553",
     "url": "/star-quiz/index.html"
   }
 ];
