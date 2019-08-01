@@ -1,11 +1,13 @@
 {
   "name": "star-quiz",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
+  "homepage": "https://lucassenarj.github.io/star-quiz",
   "dependencies": {
     "@material-ui/core": "^3.3.2",
     "@material-ui/icons": "^3.0.1",
     "axios": "^0.18.0",
+    "gh-pages": "^1.1.0",
     "history": "^4.7.2",
     "normalize.css": "^8.0.0",
     "react": "^16.6.0",
@@ -22,7 +24,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

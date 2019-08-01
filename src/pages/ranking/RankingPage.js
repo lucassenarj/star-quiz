@@ -41,7 +41,7 @@ class RankingPage extends Component {
         <Header title={'Ranking'} />
         <main className={classes.layout}>
           <Paper className={classes.paper}>
-            <img src="/assets/images/darth-vader.png" alt="Darth Vader" width={'30%'} />
+            <img src="assets/images/darth-vader.png" alt="Darth Vader" width={'30%'} />
             <div className={classes.content}>
               <h1>Ranking!</h1>
               {this.props.state.rank.length !== 0 ? 

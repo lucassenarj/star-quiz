@@ -37,7 +37,7 @@ const AboutPage = (props) => {
       <Header title={'About'} />
       <main className={classes.layout}>
         <Paper className={classes.paper}>
-          <img src="/assets/images/darth-vader.png" alt="Darth Vader" width={'30%'} />
+          <img src="assets/images/darth-vader.png" alt="Darth Vader" width={'30%'} />
           <div className={classes.content}>
             <h1>Star Quiz!</h1>
             <h3>Rules:</h3>

@@ -14,7 +14,7 @@ export default (props) => {
   return (
     <div className={props.layout}>
       <List style={{padding: 20 }}>
-        <Avatar src="/assets/images/darth-vader.png" alt="Darth Vader" style={{width:200, height: 200}} />
+        <Avatar src="assets/images/darth-vader.png" alt="Darth Vader" style={{width:200, height: 200}} />
       </List>
       <Divider />
       <List>

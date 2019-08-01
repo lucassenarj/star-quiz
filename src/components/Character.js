@@ -70,7 +70,7 @@ class Character extends Component {
 
   render() {
     const { classes } = this.props;
-    const thumbnail = `/assets/images/characters/${this.props.data.name.toLowerCase().replace(' ', '-')}.jpg`;
+    const thumbnail = `assets/images/characters/${this.props.data.name.toLowerCase().replace(' ', '-')}.jpg`;
 
     return (
       <div>

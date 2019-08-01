@@ -31,7 +31,7 @@ const HomePage = (props) => {
       <Header title={'Home Page'} />
       <main className={classes.layout}>
         <Paper className={classes.paper}>
-          <img src="/assets/images/darth-vader.png" alt="Darth Vader" width={'30%'} />
+          <img src="assets/images/darth-vader.png" alt="Darth Vader" width={'30%'} />
           <h1>StarQuiz!</h1>
           <Link to="/quiz">
             <Button variant="contained" color="primary">

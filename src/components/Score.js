@@ -93,7 +93,7 @@ class Score extends Component {
       >
         <div className={classes.content}>
           <h1 className={classes.fontFinished}>Quiz Finished!</h1>
-          <img src="/assets/images/darth-vader-impressive.png" alt="Darth Vader"/>
+          <img src="assets/images/darth-vader-impressive.png" alt="Darth Vader"/>
           <p>Congratulations, your score final is: <span className={classes.fontScore}>{this.props.score}</span> points</p>
           <p>Please, type your name and email for our rank</p>
           <div>
